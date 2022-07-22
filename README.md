@@ -64,6 +64,4 @@ Request:
 }
 ```
 
-Actualizar persona: PUT `api/person/:id`
-
 Eliminar persona: DELETE `api/person/:id`
