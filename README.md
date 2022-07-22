@@ -16,8 +16,8 @@ Request:
 
 ```json
 {
-  "name": "Some Professor",
-  "email": "some@professor.com",
+  "name": "Some Person",
+  "email": "some@person.com",
   "phone": "89990000",
   "address": {
     "street": "Calle 33 # 33-44 1",
@@ -44,8 +44,8 @@ Request:
 
 ```json
 {
-  "name": "Some Professor",
-  "email": "some@professor.com",
+  "name": "Some Person",
+  "email": "some@person.com",
   "phone": "89990000",
   "address": {
     "street": "Calle 33 # 33-44 1",
